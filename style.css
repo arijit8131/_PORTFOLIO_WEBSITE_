@@ -145,17 +145,7 @@ nav ul{
     justify-content: center;
 }
 
-.secondH{
-    width: 30%;
-}
 
-.secondH img{
-    display: none;
-    width: 60%;
-    border: 3px solid white;
-    border-radius: 150px;
-    margin: auto;
-}
 
 
 .text-l{
@@ -538,16 +528,6 @@ footer{
         padding-top: 90px;
         padding-bottom: 30px;
     }
-
-    .secondH img{
-    width: 120%;
-    margin-bottom: 50px;
-    border: 3px solid white;
-    border-radius: 150px;
-    display: block;
-    
-    }
-
 
     .typing-eft{
     margin: auto;
